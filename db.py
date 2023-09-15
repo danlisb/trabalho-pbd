@@ -5,7 +5,7 @@ con = psycopg2.connect(
     host = "localhost",
     database = "spotify_pbd",
     user = "postgres",
-    password = ""
+    password = "6661"
 )  
 
 # inicia o cursor para executar as queries
